@@ -4,6 +4,8 @@ I build practical web and systems tools that solve real problems. I started with
 
 This profile README is the real me: curious, pragmatic, and focused on shipping solid code with good documentation. I value readable code and clear demos over clever one-liners.
 
+Portfolio: https://yeshu-portfolio-26.vercel.app/
+
 ---
 
 About me
